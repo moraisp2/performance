@@ -1,0 +1,5 @@
+node_modules
+xunit.xml
+coverage
+.nyc_output
+newrelic_agent.log
